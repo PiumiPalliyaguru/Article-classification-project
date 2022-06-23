@@ -1,0 +1,3 @@
+#!/bin/bash
+
+uvicorn article_analyzer.api:app --reload
